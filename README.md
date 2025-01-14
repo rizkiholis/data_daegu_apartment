@@ -10,6 +10,6 @@ Proyek ini bertujuan untuk memprediksi harga apartemen di Daegu, Korea Selatan, 
 - Lokasi strategis yang dekat dengan fasilitas umum.
 - Harga relatif terjangkau dibandingkan rumah tapak.
 
-##Tantangan:
+## Tantangan:
 
 Menentukan harga yang sesuai agar kompetitif di pasar, dengan mempertimbangkan berbagai faktor seperti lokasi, ukuran, dan fasilitas.
